@@ -1,2 +1,1 @@
-# CashBox
-```html <img src="./images/box.svg" width="50" height="50"/>```
+# CashBox ![picture alt](./images/box.svg "Title is optional")
