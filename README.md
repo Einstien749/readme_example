@@ -1,1 +1,1 @@
-# CashBox ![picture alt](http://via.placeholder.com/200x150)
+# CashBox `html <img src="./images/box.svg" width="50" height="50p"/>`
