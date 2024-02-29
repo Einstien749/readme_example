@@ -4,3 +4,8 @@ CashBox is a digital savings platform that helps everyone “Make saving a habit
 <br />
 ## Project
 This is the official repository for the front-end of cashbox [web](https://www.cashboxng.com/) application. It seemlessly and very easy to navigate User Interface, which includes landing page, sign up, login, dashboard, savings plan, plan details, plan creation pages etc was well crafted and perfectly implemented with best frameworks, all to give users the best experience towards a better savings habit.
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
