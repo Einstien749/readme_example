@@ -36,6 +36,7 @@ This is the official repository for the front-end of cashbox [web](https://www.c
    - `Redux`
    - `Moment`
    - `Redux-Persist`
+   - `Numeral`
 3. **Installation and running:**
    Follow these steps to install and set up the project locally:<br />
    1. **Clone the repository:**
