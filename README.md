@@ -55,7 +55,7 @@ This is the official repository for the front-end of cashbox [web](https://www.c
     5. **Open your web browser and navigate to http://localhost:5173 to view the project.**
     
 5. **Deployment**
-   Follow these steps to deploy your React app:<br />
+   Follow these steps to deploy your React app :<br />
    1. **Build your react application:**
       ```bash
       yarn build
